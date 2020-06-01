@@ -11,7 +11,7 @@
 >
 > 欢迎积极参与学习项目的建设，为更多学习编程的朋友提供更好的帮助，一起进步！^_^
 
-![](https://github.com/coderwing/HappyCodeHub/blob/pain/57e1e71114d70.jpg)
+![](57e1e71114d70.jpg)
 
 
 
